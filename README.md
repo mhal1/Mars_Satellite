@@ -13,6 +13,8 @@ Explored effects on energy and angle deviation of launching the satellite from d
 
 ![alt text](https://github.com/mhal1/Mars_Satellite/blob/master/mars2.png?raw=true)
 
+# Energy variations for Mars moving
+
 ![alt text](https://github.com/mhal1/Mars_Satellite/blob/master/mars3.png?raw=true)
 
 See more in uploaded report.
